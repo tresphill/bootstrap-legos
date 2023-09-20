@@ -1,6 +1,9 @@
 /* Your code goes here, if needed */
-.card-group{
-    justify-content: center;}
+main {
+    padding: 30px !important;
+    gap: 30px;
+    display: flex;
+}
 
 /* DO NOT CHANGE CODE BELOW THIS LINE */
 .red {
